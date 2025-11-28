@@ -9,9 +9,9 @@
     <FileVersion>3.0.4</FileVersion>
     <RepositoryUrl>https://github.com/zHaytam/Blazor.Diagrams</RepositoryUrl>
     <Version>3.0.4</Version>
-    <PackageId>Z.Blazor.Diagrams.Algorithms</PackageId>
+    <PackageId>TempDevedse.Z.Blazor.Diagrams.Algorithms</PackageId>
     <PackageTags>blazor diagrams diagramming svg drag algorithms layouts</PackageTags>
-    <Product>Z.Blazor.Diagrams.Algorithms</Product>
+    <Product>TempDevedse.Z.Blazor.Diagrams.Algorithms</Product>
   </PropertyGroup>
 
   <ItemGroup>
